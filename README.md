@@ -1,6 +1,6 @@
-# HexaGuess
+# Learn-Hexadecimal
 
-HexaGuess is a simple Java application designed to help users improve their memory and familiarity with hexadecimal numbers. The purpose of this project is to provide an interactive and educational tool for learning hexadecimal digits through a guessing game.
+Learn-Hexadecimal is a simple Java application designed to help users improve their memory and familiarity with hexadecimal numbers. The purpose of this project is to provide an interactive and educational tool for learning hexadecimal digits through a guessing game.
 
 ## Features:
 
@@ -21,6 +21,6 @@ HexaGuess is a simple Java application designed to help users improve their memo
 
 ## Purpose:
 
-The primary goal of HexaGuess is to provide an engaging and interactive way for users to practice and reinforce their understanding of hexadecimal numbers. By gamifying the learning process, users can enhance their memory retention and familiarity with hexadecimal digits in an enjoyable manner.
+The primary goal of Learn-Hexadecimal is to provide an engaging and interactive way for users to practice and reinforce their understanding of hexadecimal numbers. By gamifying the learning process, users can enhance their memory retention and familiarity with hexadecimal digits in an enjoyable manner.
 
-Whether you're a student studying computer science, a software developer working with hexadecimal notation, or simply someone interested in expanding your knowledge, HexaGuess offers a fun and accessible way to explore the world of hexadecimal numbers.
+Whether you're a student studying computer science, a software developer working with hexadecimal notation, or simply someone interested in expanding your knowledge, Learn-Hexadecimal offers a fun and accessible way to explore the world of hexadecimal numbers.
